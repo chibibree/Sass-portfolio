@@ -1,2 +1,1 @@
 # Sass-portfolio
-# my-portfolio
